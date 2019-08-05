@@ -9,6 +9,8 @@ public class HeadMaster {
     public void startCode(){
         AddVisitor addMethod = new AddVisitor();
 //        employees.add()
+        //TODO criar uma classe factory com key do tipo de funcionario e retornar um new Tipo(), colocar esse getTipo do map no employees.add( factory.getTipo(operator)) aaaaaaaaaaaaaaaaa
+
 
     }
 
