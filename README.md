@@ -5,7 +5,7 @@ Projeto Refatoramento - Folha de Pagamento
 **Utilização inicial** : Igual ao do projeto OO, do diretório [FolhaDePagamentoOO](https://github.com/hglps/FolhaDePagamentoOO/) , 
 no entanto, a entrada é por uma string descrevendo a funcionalidade desejada.
 
-**PADRÕES DE PROJETO UTILIZADOS - FORMATO: PACKAGE / CLASS(ES):**
+**PADRÕES DE PROJETO UTILIZADOS - FORMATO: package/Class(es):**
 
 * Factory : **choicemenusfactory/ChoiceFactory.java ; registerfactory/ChangeRegisterFactory.java ; typemenufactory/TypeEmployeeFactory.java**
 
